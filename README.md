@@ -4,7 +4,7 @@
 On input image with person remove the background.
 
 Examples:
-![](img/example of network work.jpg)
+![image](https://user-images.githubusercontent.com/20956901/182188771-60676fd5-27c5-442b-80d2-3a81c49b7add.png)
 
 ## Architecture of neural network
 ![](img/UNet_architecture.png)
