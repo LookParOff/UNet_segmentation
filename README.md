@@ -26,10 +26,23 @@ The Decoder can be splits into the Blocks too, and the Block by the structure wi
 Between blocks applying 
 [transpose convolution](https://towardsdatascience.com/what-is-transposed-convolutional-layer-40e5e6e31c11).
 
+
+[Link to download the model from Google Drive](https://drive.google.com/file/d/14VbcaW9zPq0uE4QrwYt81vf6eWM3CA2N/view?usp=sharing)
+
 ## Data
 
 Train dataset is [Microsoft COCO](https://cocodataset.org/#home)
 
+## Result metrics
+
+Jaccard index = 0.7663
+
+Cross entropy loss = 0.3599
+
+Curves of training
+
+![train loss](img/train loss.png)
+![train loss](img/test metric.png)
 
 ## Used modules
 
