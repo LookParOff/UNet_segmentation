@@ -41,10 +41,10 @@ Cross entropy loss = 0.3599
 
 Curves of training
 
-![train loss](img/train loss.png)
+![train loss](img/train_loss.png)
 
 
-![train loss](img/test metric.png)
+![train loss](img/test_metric.png)
 
 ## Used modules
 
